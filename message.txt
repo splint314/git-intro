@@ -1,1 +1,1 @@
-"Add message.txt in feature-greeting branch"
+echo "Message from feature branch"
