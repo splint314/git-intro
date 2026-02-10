@@ -1,2 +1,2 @@
-echo "This is a test log" > test.log
+echo "*.log" > .gitignore
 git status
