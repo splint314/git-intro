@@ -1,2 +1,1 @@
-echo "Change from feature branch" 
-echo "Change from main" 
+echo "Change from feature branch"
